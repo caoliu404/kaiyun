@@ -21,7 +21,8 @@ api接口费用：12%。
 
 后台功能：
 
-<img width="2478" height="1258" alt="image" src="https://github.com/user-attachments/assets/4865eb7b-087f-40d4-8b62-675954365525" />
+<img width="1754" height="808" alt="image" src="https://github.com/user-attachments/assets/93aab078-f0f2-4474-a56d-4db43621aded" />
+
 
 <img width="454" height="360" alt="image" src="https://github.com/user-attachments/assets/4deb6e82-3911-4f7d-9e53-824af4d65ec3" />
 
